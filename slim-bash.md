@@ -22,6 +22,7 @@ Bash é um interpretador capaz de executar comandos de leitura através de um ar
 O Bash dispõe das seguintes opções:
 
 | Flag (chave) | Descrição |
+|--------------|-----------|
 | -c | | 
 | -i | | 
 | -r | | 
